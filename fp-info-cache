@@ -1,4 +1,4 @@
-23884708404065512
+23877721463194654
 1N5819HW-7-F
 SOD3715X145N
 
@@ -56748,20 +56748,6 @@ SOT95P280X145-6N
 0
 6
 6
-FSUSB74MPX
-QFN50P300X300X80-17N
-
-
-0
-17
-17
-FSUSB74UMX
-QFN40P260X180X55-16N
-
-
-0
-16
-16
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -68648,13 +68634,6 @@ DIL DIP PDIP 2.54mm 7.62mm 300mil
 0
 4
 4
-PCM12SMTR
-SW_PCM12SMTR
-
-
-0
-7
-7
 PMIC-XC6204B332MR_SOT23-5_
 SOT-23-5
 <b>Small Outline Transistor</b>
@@ -90824,13 +90803,6 @@ SOT127P706X180-6N
 0
 6
 6
-TS3USB221A
-RSE10
-
-TS3USB221ARSER 
-0
-10
-10
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
